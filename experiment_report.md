@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-0184
+**Student ID:** 2A202600184
 **Name:** Nguyen Nang Anh
 **Email:** 26ai.anhnn@vinuni.edu.vn
 **Date:** 2026-04-15
